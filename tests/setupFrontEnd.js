@@ -1,0 +1,1 @@
+// Frontend testing setup placeholder
