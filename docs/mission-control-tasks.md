@@ -9,3 +9,11 @@
 | TASK-DIR | Directeur de Projet | Revue globale, checklist Go/No-Go, recommandations déploiement et risques restants | Rapport à produire (`docs/revue-directeur.md`) | 🚧 À faire |
 
 > Dernière mise à jour : 2026-03-15
+
+---
+
+## Commentaires
+
+<!-- Les agents ajoutent leurs commentaires d'actions ci-dessous, un par ligne -->
+
+
