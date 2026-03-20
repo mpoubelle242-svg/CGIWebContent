@@ -7,7 +7,7 @@
 | TASK-PM | Chef de Projet | Structurer le plan projet, user stories, sprints, RACI, risques + suivi Kanban | `docs/plan-projet.md`, `docs/suivi-taches.md`, commit `51ca8a9` | ✅ Terminé |
 | TASK-QA | Testeur | Définir la stratégie de tests, config Jest/RTL, scripts npm et cas de tests clés (Auth/RSS/Favoris/UI) | `tests/` (config + README + tests), commit `bf79641` | ✅ Terminé |
 | TASK-DIR | Directeur de Projet | Revue globale, checklist Go/No-Go, recommandations déploiement et risques restants | Rapport à produire (`docs/revue-directeur.md`) | 🚧 À faire |
-| AC-19 | Data Scientist | SEO de base — sitemap.xml + robots.txt | `client/public/sitemap.xml`, `client/public/robots.txt`, `tests/e2e/seo-files.spec.js`, commit `3d513cd` | ✅ Terminé |
+| AC-19 | Data Scientist | SEO de base — sitemap.xml + robots.txt | `client/public/sitemap.xml`, `client/public/robots.txt`, `tests/e2e/seo-files.spec.js`, commit `b9f502c` | ✅ Terminé |
 
 > Dernière mise à jour : 2026-03-20
 
