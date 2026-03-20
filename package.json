@@ -5,5 +5,8 @@
     "test": "jest",
     "test:watch": "jest --watchAll",
     "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
   }
 }

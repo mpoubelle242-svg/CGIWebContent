@@ -15,5 +15,6 @@
 ## Commentaires
 
 <!-- Les agents ajoutent leurs commentaires d'actions ci-dessous, un par ligne -->
-
-
+<!-- [2026-03-20 06:02] [AC-19] CREATE: Créé client/public/sitemap.xml avec 28 URLs (pages publiques + dashboard) avec priorité et changefreq -->
+<!-- [2026-03-20 06:03] [AC-19] UPDATE: Modifié client/public/robots.txt (Allow global, Sitemap, Crawl-delay 1, Disallow /admin/audit et /admin/monitoring) -->
+<!-- [2026-03-20 06:04] [AC-19] CREATE: Créé tests/e2e/seo-files.test.js avec 2 tests vérifiant accessibilité et contenu des fichiers SEO -->
